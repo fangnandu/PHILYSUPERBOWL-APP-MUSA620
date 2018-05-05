@@ -1,8 +1,9 @@
 ## MUSA620 FINAL PROJECT 
 ### - Super Bowl /Philly Eagle with Philadelphia
 #### Project Created By Fangnan Du / Xiaotong Wang
-[You can access the file and code from here-Github](https://github.com/fangnandu/PHILYSUPERBOWL-APP-MUSA620)
 
+app link: https://fangnan.shinyapps.io/musa620final-phily_super_bowl-app/
+[You can access the application from here](https://fangnan.shinyapps.io/musa620final-phily_super_bowl-app/)
 
 # Table of contents
 1. [Assignment Steps]
