@@ -5,17 +5,17 @@
 
 
 # Table of contents
-1. [Assignment Steps](##Assignment Steps)
-2. [Data Cleaning](##Data Cleaning)
-3. [Building the Shiny Interactive App](##Building the Shiny Interactive App)
-     1. [Page 1: Philadelphia People's Traveling Pattern Heat Map](#### Page 1: Philadelphia People's Traveling Pattern Heat Map)
-     2. [Page 2: Block Popularity Visualization](#### Page 2: Block Popularity Visualization)
-     3. [Page 3: Club Popularity](#### Page 3: Club Popularity)
-4. [Codes Behind the Screen ](## Codes Behind the Screen)
-      1. [Codes for Data Cleaning and Reformating](#### Codes for Data Cleaning and Reformating)
-      2. [Code for server:](#### Code for server:)
-      3. [Code for UI design](#### Code for UI design)
-      4. [Code for css](#### Code for css)
+1. [Assignment Steps]
+2. [Data Cleaning]
+3. [Building the Shiny Interactive App]
+     1. [Page 1: Philadelphia People's Traveling Pattern Heat Map]
+     2. [Page 2: Block Popularity Visualization]
+     3. [Page 3: Club Popularity]
+4. [Codes Behind the Screen ]
+      1. [Codes for Data Cleaning and Reformating]
+      2. [Code for server:]
+      3. [Code for UI design]
+      4. [Code for css]
 
 
 ___
