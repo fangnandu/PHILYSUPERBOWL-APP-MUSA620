@@ -6,7 +6,7 @@
 
 # Table of contents
 1. [Assignment Steps](##Assignment Steps)
-2. [Data Cleaning](## Data Cleaning)
+2. [Data Cleaning](##Data Cleaning)
 3. [Building the Shiny Interactive App](##Building the Shiny Interactive App)
      1. [Page 1: Philadelphia People's Traveling Pattern Heat Map](#### Page 1: Philadelphia People's Traveling Pattern Heat Map)
      2. [Page 2: Block Popularity Visualization](#### Page 2: Block Popularity Visualization)
@@ -16,6 +16,9 @@
       2. [Code for server:](#### Code for server:)
       3. [Code for UI design](#### Code for UI design)
       4. [Code for css](#### Code for css)
+
+
+___
 
 This is the ReadMe file for the MUSA 620's final project. The main focus of this project is about the data of Super Bowl 2018. The Super Bowl 2018 was played in Feb 2018 at U.S. Bank Stadium in Minneapolis, between the team New England Patriots and Philadelphia Eagles, and the Philadelphia Eagles finally beat the England Patriots, becoming the winner. The residents of Philadelphia has enormous passion toward the game. As Penn students, we can personally feel the great happiness that the city of Philadelphia has when our local team wins the great game. At the same time, our team has a strong interest in people's activity pattern during the game period.
 Through collecting the remote sensing data that people's phone generated from Feb 1 to Feb 5, our primary goal will be monitoring the people's movement and travel pattern through the game period inside the border of City Philadelphia.
